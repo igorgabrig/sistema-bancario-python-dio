@@ -1,2 +1,2 @@
 # sistema-bancario-python-dio
-Criar um sistema bancário simples com as operações: SACAR, DEPOSITAR e VISUALIZAR EXTRATO.
+Criação de um sistema bancário com as operações: SACAR, DEPOSITAR, VISUALIZAR EXTRATO, CRIAR USUÁRIO, CRIAR CONTA, LISTAR USUÁRIOS e LISTAR CONTAS.
